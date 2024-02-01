@@ -4,6 +4,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>true</ImplicitUsings>
     <IsBindingProject>true</IsBindingProject>
+    <SupportedOSPlatformVersion>15.0</SupportedOSPlatformVersion>
   </PropertyGroup>
 
   <ItemGroup>
