@@ -14,6 +14,7 @@
     <RepositoryUrl>https://github.com/Emtiaz-Tafsir/Maui.IQKeyboardManager</RepositoryUrl>
     <PackageTags>.net; maui; .net maui; iOS; binding; ios binding; IQKeyboard; IQKeyboardManager; Maui.IQKeyboardManager; microsoft.ios; netcore;</PackageTags>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageId>NET.IQKeyboardManager</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
