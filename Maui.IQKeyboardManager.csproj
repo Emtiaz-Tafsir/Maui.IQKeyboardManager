@@ -5,6 +5,15 @@
     <ImplicitUsings>true</ImplicitUsings>
     <IsBindingProject>true</IsBindingProject>
     <SupportedOSPlatformVersion>15.0</SupportedOSPlatformVersion>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>IQKeyboardManager for .NET MAUI</Title>
+    <Authors>Emtiaz MD Tafsir Bhuiyan</Authors>
+    <Description>This package is a .NET ported version of the IQKeyboardManager library for iOS. This is targetted specifically for .NET MAUI but other .NET applications should be able to use this.</Description>
+    <PackageProjectUrl>https://github.com/Emtiaz-Tafsir/Maui.IQKeyboardManager</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Emtiaz-Tafsir/Maui.IQKeyboardManager</RepositoryUrl>
+    <PackageTags>.net; maui; .net maui; iOS; binding; ios binding; IQKeyboard; IQKeyboardManager; Maui.IQKeyboardManager; microsoft.ios; netcore;</PackageTags>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,5 +26,16 @@
     <NativeReference Include="IQKeyboardManager.framework">
       <Kind>Framework</Kind>
     </NativeReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 </Project>
