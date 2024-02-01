@@ -6,4 +6,4 @@ This is an iOS binding of the  [IQKeyboardManager](https://github.com/hackiftekh
 
 The API bindings have been collected from [Xamarin.IQKeyboardManager](https://github.com/TheEightBot/Xamarin.IQKeyboardManager)
 
-> Thanks to [@hackiftekhar](https://github.com/hackiftekhar) and [@TheEightBot](https://github.com/TheEightBot) for the great library
+> Thanks to [@hackiftekhar](https://github.com/hackiftekhar) and [@TheEightBot](https://github.com/TheEightBot) for the great library 
